@@ -1,1 +1,1 @@
-# This is DIALECT - meDIcal And cLinical rEsearch Collaboration Tools
+# DIALECT - meDIcal And cLinical rEsearch Collaboration Tools
